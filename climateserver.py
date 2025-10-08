@@ -1,4 +1,4 @@
-# app.py
+# climateserver.py
 
 from flask import render_template # Remove: import Flask
 import connexion

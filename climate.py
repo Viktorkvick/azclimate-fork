@@ -1,4 +1,4 @@
-# people.py
+# climate.py
 
 from datetime import datetime
 

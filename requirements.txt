@@ -1,2 +1,6 @@
-Flask == 2.2.2
-connexion [swagger-ui] == 2.14.1
+Flask==2.2.2
+connexion[swagger-ui]==2.14.1
+PyYAML>=6.0
+gunicorn>=21.2
+Werkzeug<3
+
